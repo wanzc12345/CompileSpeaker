@@ -1,0 +1,33 @@
+D:\programming\codeproject优秀文章\Fast Colored TextBox for syntax highlighting\FastColoredTextBox\CompileSpeaker\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\programming\codeproject优秀文章\Fast Colored TextBox for syntax highlighting\FastColoredTextBox\CompileSpeaker\obj\x86\Debug\CompileSpeaker.PowerfulCSharpEditor.resources
+D:\programming\codeproject优秀文章\Fast Colored TextBox for syntax highlighting\FastColoredTextBox\CompileSpeaker\obj\x86\Debug\CompileSpeaker.Properties.Resources.resources
+D:\programming\codeproject优秀文章\Fast Colored TextBox for syntax highlighting\FastColoredTextBox\CompileSpeaker\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\programming\codeproject优秀文章\Fast Colored TextBox for syntax highlighting\FastColoredTextBox\CompileSpeaker\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\programming\codeproject优秀文章\Fast Colored TextBox for syntax highlighting\FastColoredTextBox\CompileSpeaker\bin\Debug\CompileSpeaker.exe.config
+D:\programming\codeproject优秀文章\Fast Colored TextBox for syntax highlighting\FastColoredTextBox\CompileSpeaker\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\programming\codeproject优秀文章\Fast Colored TextBox for syntax highlighting\FastColoredTextBox\CompileSpeaker\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\programming\codeproject优秀文章\Fast Colored TextBox for syntax highlighting\FastColoredTextBox\CompileSpeaker\bin\Debug\CompileSpeaker.exe
+D:\programming\codeproject优秀文章\Fast Colored TextBox for syntax highlighting\FastColoredTextBox\CompileSpeaker\bin\Debug\CompileSpeaker.pdb
+D:\programming\codeproject优秀文章\Fast Colored TextBox for syntax highlighting\FastColoredTextBox\CompileSpeaker\bin\Debug\FastColoredTextBox.dll
+D:\programming\codeproject优秀文章\Fast Colored TextBox for syntax highlighting\FastColoredTextBox\CompileSpeaker\bin\Debug\TabStrip.dll
+D:\programming\codeproject优秀文章\Fast Colored TextBox for syntax highlighting\FastColoredTextBox\CompileSpeaker\obj\x86\Debug\CompileSpeaker.exe
+D:\programming\codeproject优秀文章\Fast Colored TextBox for syntax highlighting\FastColoredTextBox\CompileSpeaker\obj\x86\Debug\CompileSpeaker.pdb
+E:\Program\C#\CompileSpeaker\CompileSpeaker\bin\Debug\CompileSpeaker.exe.config
+E:\Program\C#\CompileSpeaker\CompileSpeaker\obj\x86\Debug\CompileSpeaker.exe
+E:\Program\C#\CompileSpeaker\CompileSpeaker\obj\x86\Debug\CompileSpeaker.pdb
+E:\Program\C#\CompileSpeaker\CompileSpeaker\bin\Debug\CompileSpeaker.exe
+E:\Program\C#\CompileSpeaker\CompileSpeaker\bin\Debug\CompileSpeaker.pdb
+E:\Program\C#\CompileSpeaker\CompileSpeaker\bin\Debug\FastColoredTextBox.dll
+E:\Program\C#\CompileSpeaker\CompileSpeaker\bin\Debug\TabStrip.dll
+E:\Program\C#\CompileSpeaker\CompileSpeaker\bin\Debug\Interop.SpeechLib.dll
+E:\Program\C#\CompileSpeaker\CompileSpeaker\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Program\C#\CompileSpeaker\CompileSpeaker\obj\x86\Debug\Interop.SpeechLib.dll
+E:\Program\C#\CompileSpeaker\CompileSpeaker\obj\x86\Debug\CompileSpeaker.csproj.ResolveComReference.cache
+E:\Program\C#\CompileSpeaker\CompileSpeaker\obj\x86\Debug\CompileSpeaker.PowerfulCSharpEditor.resources
+E:\Program\C#\CompileSpeaker\CompileSpeaker\obj\x86\Debug\CompileSpeaker.Properties.Resources.resources
+E:\Program\C#\CompileSpeaker\CompileSpeaker\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Program\C#\CompileSpeaker\CompileSpeaker\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Program\C#\CompileSpeaker\CompileSpeaker\obj\x86\Debug\ResGen.read.1.tlog
+E:\Program\C#\CompileSpeaker\CompileSpeaker\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Program\C#\CompileSpeaker\CompileSpeaker\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Program\C#\CompileSpeaker\CompileSpeaker\obj\x86\Debug\ResGen.write.1.tlog
